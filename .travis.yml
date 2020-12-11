@@ -11,3 +11,7 @@ otp_release:
   - R15B02
   - R15B01
   - R15B
+
+arch:
+  - amd64
+  - ppc64le
